@@ -4,10 +4,9 @@ import Testing from './Testing.js';
 
 function App() {
   return (
-    // <div className="test">
-    //     <Testing />
-    // </div>
-    <Testing/>
+    <div className="test">
+        <Testing />
+    </div>
   );
 }
 
